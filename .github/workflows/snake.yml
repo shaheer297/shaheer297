@@ -18,7 +18,7 @@ jobs:
       - uses: Platane/snk@v3
         id: snake-gif
         with:
-          github_user_name: shaheer
+          github_user_name: shaheer297
           outputs: |
             github-contribution-grid-snake.svg
             github-contribution-grid-snake-dark.svg?palette=github-dark
